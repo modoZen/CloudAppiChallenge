@@ -1,5 +1,6 @@
 # CloudAppiChallenge
 Este repositorio contiene el codigo solucion del code challenge para la posición de FRONT
+Tanto el código del front y back fueron desarrollados por mi.
 ## Front End
 Para instalar las dependencias 
 ```
