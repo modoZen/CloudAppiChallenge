@@ -1,0 +1,30 @@
+module.exports=userData=[
+    {
+        id:1,
+        firstname:"Max",
+        lastname:"Diaz",
+        email:"maxDN.06@gmail.com",
+        birthDate: "1992-10-06",
+        address:{
+            id:1,
+            street:"13",
+            city:"Lima",
+            country:"PE",
+            postalcode:"42030"
+        }
+    },
+    {
+        id:2,
+        firstname:"Giancarlo",
+        lastname:"Guizado",
+        email:"lapepa@gmail.com",
+        birthDate:"1996-11-06",
+        address:{
+            id:2,
+            street:"20",
+            city:"Trujillo",
+            country:"PE",
+            postalcode:"42050"
+        }
+    }
+]
