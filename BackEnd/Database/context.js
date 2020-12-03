@@ -1,10 +1,10 @@
 module.exports=userData=[
     {
         id:1,
-        firstname:"Max",
-        lastname:"Diaz",
-        email:"maxDN.06@gmail.com",
-        birthDate: "1992-10-06",
+        firstname:"Pedro",
+        lastname:"Gonzales",
+        email:"master@gmail.com",
+        birthDate: "1992-07-27",
         address:{
             id:1,
             street:"13",

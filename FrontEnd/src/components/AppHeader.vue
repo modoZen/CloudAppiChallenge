@@ -8,7 +8,7 @@
         .navbar-end
           span.navbar-item
             a.button.is-success.is-inverted(
-              href="https://github.com/modoZen/CloudAppi-Challenge"
+              href="https://github.com/modoZen/CloudAppiChallenge"
             )
               span.icon
                 i.fab.fa-github
